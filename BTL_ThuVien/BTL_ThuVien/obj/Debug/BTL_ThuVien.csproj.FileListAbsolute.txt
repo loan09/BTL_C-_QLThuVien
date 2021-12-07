@@ -1,0 +1,13 @@
+G:\Tai lieu\C#\BTL_ThuVien\BTL_ThuVien\bin\Debug\BTL_ThuVien.exe.config
+G:\Tai lieu\C#\BTL_ThuVien\BTL_ThuVien\bin\Debug\BTL_ThuVien.exe
+G:\Tai lieu\C#\BTL_ThuVien\BTL_ThuVien\bin\Debug\BTL_ThuVien.pdb
+G:\Tai lieu\C#\BTL_ThuVien\BTL_ThuVien\obj\Debug\BTL_ThuVien.csproj.AssemblyReference.cache
+G:\Tai lieu\C#\BTL_ThuVien\BTL_ThuVien\obj\Debug\BTL_ThuVien.Form1.resources
+G:\Tai lieu\C#\BTL_ThuVien\BTL_ThuVien\obj\Debug\BTL_ThuVien.Properties.Resources.resources
+G:\Tai lieu\C#\BTL_ThuVien\BTL_ThuVien\obj\Debug\BTL_ThuVien.csproj.GenerateResource.cache
+G:\Tai lieu\C#\BTL_ThuVien\BTL_ThuVien\obj\Debug\BTL_ThuVien.csproj.CoreCompileInputs.cache
+G:\Tai lieu\C#\BTL_ThuVien\BTL_ThuVien\obj\Debug\BTL_ThuVien.exe
+G:\Tai lieu\C#\BTL_ThuVien\BTL_ThuVien\obj\Debug\BTL_ThuVien.pdb
+G:\Tai lieu\C#\BTL_ThuVien\BTL_ThuVien\obj\Debug\BTL_ThuVien.frmNVQuanLy.resources
+G:\Tai lieu\C#\BTL_ThuVien\BTL_ThuVien\obj\Debug\BTL_ThuVien.frmSinhVien.resources
+G:\Tai lieu\C#\BTL_ThuVien\BTL_ThuVien\obj\Debug\BTL_ThuVien.DangKy.resources
